@@ -14,6 +14,8 @@ Our pipeline consists of 3 stages: web search, LLM evaluation, and result consol
 
 We also use a modified version of two class from [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai), licensed under the MIT license. The adapted code and the license text are in the `scrapegraphAI_extension/` directory.
 
+A sample brand list and explanation of the file format are in the `sample_brand_list/` directory.
+
 ## Requirements
 
 - Python 3.12
